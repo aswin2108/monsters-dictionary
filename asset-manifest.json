@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monsters-dictionary/static/css/main.07f05e84.chunk.css",
+    "main.js": "/monsters-dictionary/static/js/main.602cf0b2.chunk.js",
+    "main.js.map": "/monsters-dictionary/static/js/main.602cf0b2.chunk.js.map",
+    "runtime-main.js": "/monsters-dictionary/static/js/runtime-main.28f365ac.js",
+    "runtime-main.js.map": "/monsters-dictionary/static/js/runtime-main.28f365ac.js.map",
+    "static/js/2.b7f2e418.chunk.js": "/monsters-dictionary/static/js/2.b7f2e418.chunk.js",
+    "static/js/2.b7f2e418.chunk.js.map": "/monsters-dictionary/static/js/2.b7f2e418.chunk.js.map",
+    "static/js/3.e2f0cec9.chunk.js": "/monsters-dictionary/static/js/3.e2f0cec9.chunk.js",
+    "static/js/3.e2f0cec9.chunk.js.map": "/monsters-dictionary/static/js/3.e2f0cec9.chunk.js.map",
+    "index.html": "/monsters-dictionary/index.html",
+    "static/css/main.07f05e84.chunk.css.map": "/monsters-dictionary/static/css/main.07f05e84.chunk.css.map",
+    "static/js/2.b7f2e418.chunk.js.LICENSE.txt": "/monsters-dictionary/static/js/2.b7f2e418.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28f365ac.js",
+    "static/js/2.b7f2e418.chunk.js",
+    "static/css/main.07f05e84.chunk.css",
+    "static/js/main.602cf0b2.chunk.js"
+  ]
+}
